@@ -4,11 +4,10 @@ public class Eynar {
         String abc = "ASD";
     }
 
+
     public void saludar()
     {
-        String saludo = "holasadasdasdsadasd";
+        String saludo = "hola";
         System.out.println(saludo);
     }
-
-
 }
