@@ -6,6 +6,7 @@ public class MyFirstClass {
         System.out.println("Eynar");
         System.out.println("Agustin");
         System.out.println("Fede Roman");
+        System.out.println("julian");
         System.out.println("Enzo");
     }
 
@@ -15,6 +16,7 @@ public class MyFirstClass {
         System.out.println("Hola Eynar");
         System.out.println("Hola Agustin");
         System.out.println("Hello Fede Roman");
+        System.out.println("hola julian");
         System.out.println("Hola Enzo");
 
     }
