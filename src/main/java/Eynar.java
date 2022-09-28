@@ -1,8 +1,12 @@
 public class Eynar {
 
+    /**
+     *
+     */
     public void method1(){
         String abc = "ASD";
     }
+
 
 
     public void saludar()
