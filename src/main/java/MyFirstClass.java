@@ -1,12 +1,17 @@
 public class MyFirstClass {
 
     public MyFirstClass(){
-        System.out.println("Fede Padin");
+        System.out.println("Eynar2222");
+        System.out.println("Eynar");
     }
 
     public void helloWorld(){
-        System.out.println("Hola Fede Padin");
+        System.out.println("Hola Eynar2222");
+        System.out.println("Hola Eynar");
+
     }
 
-}
 
+
+
+}
